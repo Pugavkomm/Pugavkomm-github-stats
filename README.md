@@ -1,4 +1,4 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+# [GitHub Stats Visualization](https://github.com/Pugavkomm/Pugavkomm-github-stats/blob/master/generated/languages.svg)
 
 <a href="https://github.com/jstrieb/github-stats">
 
